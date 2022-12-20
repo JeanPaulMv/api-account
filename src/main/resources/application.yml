@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: api-account
+  data:
+    mongodb:
+      authentication-database: none
+      database: accounts
+      port: 27017
+      host: localhost
+
